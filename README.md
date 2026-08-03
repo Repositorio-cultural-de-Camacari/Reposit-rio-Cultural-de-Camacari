@@ -1,2 +1,34 @@
-# Repositorio-Cultural-de-Camacari
-Este é um repositório digital que funciona como um Observatório Digital de Práticas Transformadoras de Camaçari. A proposta é reunir informações organizadas sobre a cidade, principalmente relacionadas à cultura, história, projetos sociais, patrimônio, políticas públicas e iniciativas que transformam a comunidade. Faça parte você também
+# 🗂️ Banco de Dados Colaborativo
+
+## Objetivo
+
+Criar uma organização de informações sobre a cultura de Camaçari.
+
+Podem ser cadastrados:
+
+- Projetos sociais;
+- Espaços culturais;
+- Museus;
+- Bibliotecas;
+- Eventos;
+- ONGs;
+- Instituições.
+
+## Informações Cadastradas
+
+Cada registro pode conter:
+
+- Nome;
+- Objetivo;
+- Contato;
+- Localização;
+- Público atendido.
+
+## Benefícios
+
+O banco colaborativo ajuda a:
+
+- Preservar a memória cultural;
+- Facilitar pesquisas;
+- Incentivar participação da comunidade;
+- Fortalecer a cultura local.
