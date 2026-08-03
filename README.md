@@ -1,3 +1,6 @@
+<p align="center">
+<img width="860" height="550" alt="Image" src="https://github.com/user-attachments/assets/8c9e2a7a-7667-4070-b1e6-ee892bfd3cf7" />
+</p>
 # 🎨 Economia Criativa em Camaçari
 
 ## O que é Economia Criativa?
