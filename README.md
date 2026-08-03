@@ -1,3 +1,6 @@
+<p align="center">
+<img width="1100" height="684" alt="Image" src="https://github.com/user-attachments/assets/c2d60b9e-022c-4823-adfb-d9437b740c6d" />
+</p>
 # 📚 Curiosidades sobre Camaçari
 
 ## Origem do Nome
