@@ -1,6 +1,7 @@
 # 🎨 Economia Criativa em Camaçari
 
-![Feira das Chicas](imagens/feira-das-chicas.jpg)
+![Uploading image.png…]()
+
 
 *A Feira das Chicas incentiva o empreendedorismo feminino e fortalece a economia criativa em Camaçari.*
 
