@@ -1,3 +1,6 @@
+<p align="center">
+<img width="1280" height="853" alt="Image" src="https://github.com/user-attachments/assets/96ce49ab-8528-4aa2-a9f4-e244dd0ca827" />
+</p>
 # 🌿 Meio Ambiente e Sustentabilidade
 
 ## Desenvolvimento Sustentável
