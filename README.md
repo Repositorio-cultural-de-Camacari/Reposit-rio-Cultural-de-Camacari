@@ -15,10 +15,6 @@ Entre as categorias disponíveis estão:
 
 - 🎭 Projetos culturais e sociais;
 - 🏛️ Espaços culturais;
-- 📚 Bibliotecas;
-- 🖼️ Museus;
-- 🎉 Eventos;
-- 🤝 ONGs e instituições;
 - 📍 Patrimônios culturais.
 
 ### 📝 Informações dos registros
