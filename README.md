@@ -3,41 +3,39 @@
 <img width="554" height="361" alt="Image" src="https://github.com/user-attachments/assets/1c4c87be-3486-4730-bbb7-0b89d213ffd3" />
 </p>
 
+# 🚀 Como Funciona
 
-# 🚀 Como Utilizar
+O Banco de Dados Colaborativo reúne informações sobre a cultura de Camaçari em um único local, permitindo que qualquer pessoa consulte e contribua com novos registros.
 
-O Banco de Dados Colaborativo foi desenvolvido para ser uma plataforma simples e intuitiva, permitindo que qualquer usuário encontre ou compartilhe informações sobre a cultura e os espaços de Camaçari.
+### 📂 Organização dos dados
 
-### 1️⃣ Acesse a plataforma
+As informações são organizadas por categorias, facilitando a navegação e a localização de conteúdos relacionados à cultura do município.
 
-O usuário entra no sistema e navega pelas categorias disponíveis, como museus, bibliotecas, eventos, projetos sociais e instituições.
+Entre as categorias disponíveis estão:
 
-### 2️⃣ Pesquise informações
+- 🎭 Projetos culturais e sociais;
+- 🏛️ Espaços culturais;
+- 📚 Bibliotecas;
+- 🖼️ Museus;
+- 🎉 Eventos;
+- 🤝 ONGs e instituições;
+- 📍 Patrimônios culturais.
 
-Utilize a barra de pesquisa ou os filtros para localizar um local, evento ou projeto específico.
+### 📝 Informações dos registros
 
-É possível pesquisar por:
-
-- 📍 Localização;
-- 🎭 Categoria;
-- 🏛️ Nome da instituição;
-- 📅 Eventos;
-- 👥 Público atendido.
-
-### 3️⃣ Consulte os detalhes
-
-Ao selecionar um registro, o usuário poderá visualizar informações completas, como:
+Cada cadastro pode conter informações como:
 
 - Nome;
 - Descrição;
 - Objetivo;
-- Endereço;
+- Endereço ou localização;
 - Contatos;
+- Público atendido;
 - Horário de funcionamento;
-- Imagens;
-- Redes sociais ou site oficial.
+- Redes sociais ou site;
+- Imagens e outras informações relevantes.
 
-### 4️⃣ Contribua com a comunidade
+### 🤝 Contribua com a comunidade
 
 Caso possua informações sobre um projeto, espaço cultural ou evento que ainda não esteja cadastrado, o usuário poderá realizar um novo cadastro, ajudando a manter o banco de dados sempre atualizado.
 
@@ -50,7 +48,8 @@ O Banco de Dados Colaborativo permite que moradores, estudantes, pesquisadores e
 Com ele é possível:
 
 - 🔍 Descobrir espaços culturais e turísticos;
-- 📅 Acompanhar eventos da cidade;
-- 🏛️ Conhecer instituições e projetos sociais;
-- 📚 Facilitar pesquisas escolares e acadêmicas;
-- 🤝 Contribuir para a preservação da memória cultural de Camaçari.
+- 📚 Facilitar pesquisas e estudos;
+- 🎭 Conhecer projetos e iniciativas culturais;
+- 🏛️ Valorizar o patrimônio cultural de Camaçari;
+- 🤝 Contribuir para manter o acervo sempre atualizado;
+- 🌍 Fortalecer a preservação e a divulgação da cultura local.
