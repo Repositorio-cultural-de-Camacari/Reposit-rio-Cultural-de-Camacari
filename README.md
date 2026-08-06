@@ -1,37 +1,65 @@
-<p align="center">
-<img width="550" height="314" alt="Image" src="https://github.com/user-attachments/assets/c314bfc9-5f6c-4850-91cd-07b859c840a0" />
-</p>
 # 📊 Infográficos
 
-## Dados Populacionais
+## 📖 Sobre
 
-Informações sobre:
+Esta seção reúne infográficos com informações sobre o município de **Camaçari - Bahia**, organizando dados de forma visual para facilitar a consulta e a compreensão de diferentes aspectos da cidade.
 
-- População;
+Os conteúdos são organizados por temas e podem ser atualizados conforme novos dados forem disponibilizados.
+
+---
+
+# 👥 Dados Populacionais
+
+Reúne informações relacionadas à população do município, como:
+
+- População total;
 - Crescimento populacional;
-- Densidade demográfica.
+- Densidade demográfica;
+- Distribuição da população;
+- Indicadores censitários.
 
-## Economia
+---
 
-Principais setores:
+# 💼 Economia
+
+Apresenta informações sobre os principais setores econômicos de Camaçari.
+
+Inclui dados sobre:
 
 - Polo Industrial;
 - Comércio;
 - Turismo;
-- Serviços.
+- Prestação de serviços;
+- Emprego e renda.
 
-## Educação
+---
 
-Informações relacionadas a:
+# 🎓 Educação
+
+Disponibiliza informações relacionadas à educação no município, incluindo:
 
 - Escolas;
 - Bibliotecas;
-- Centros culturais.
+- Instituições de ensino;
+- Centros culturais;
+- Indicadores educacionais.
 
-## Turismo
+---
 
-Principais atrações:
+# 🌴 Turismo
+
+Reúne informações sobre os principais atrativos turísticos e culturais de Camaçari.
+
+Entre eles:
 
 - Praias;
 - Eventos culturais;
-- Pontos históricos.
+- Patrimônios históricos;
+- Espaços de lazer;
+- Pontos turísticos.
+
+---
+
+# 🎯 Objetivo
+
+Os infográficos têm como finalidade reunir e apresentar informações relevantes sobre Camaçari de forma organizada, auxiliando estudantes, pesquisadores, gestores públicos e a comunidade em consultas, pesquisas e na divulgação de dados sobre o município.
