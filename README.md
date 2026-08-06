@@ -72,6 +72,10 @@ A seção de Infográficos busca transformar dados em informações visuais de f
 - 🌍 Disponibilizar informações de forma acessível;
 - 🤝 Incentivar o uso de dados públicos pela comunidade.
 <p align="center">
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/07512076-b710-4f67-8f8c-be3c6779208c" />
+<img width="1500" height="1100" alt="Image" src="https://github.com/user-attachments/assets/86b0b8d5-441b-4a0e-a4e8-201ec1a60ea6" />
 </p>
+
+
+
+
 
