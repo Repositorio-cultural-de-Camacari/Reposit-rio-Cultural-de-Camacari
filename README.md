@@ -10,13 +10,7 @@ Os conteúdos são organizados por temas e podem ser atualizados conforme novos 
 
 # 👥 Dados Populacionais
 
-Reúne informações relacionadas à população do município, como:
-
-- População total;
-- Crescimento populacional;
-- Densidade demográfica;
-- Distribuição da população;
-- Indicadores censitários.
+Apresenta indicadores demográficos essenciais sobre a população de Camaçari.
 
 ---
 
@@ -32,23 +26,29 @@ Inclui dados sobre:
 - Prestação de serviços;
 - Emprego e renda.
 
+Os gráficos auxiliam na análise do crescimento econômico e das transformações ocorridas no município.
+
 ---
 
 # 🎓 Educação
 
-Disponibiliza informações relacionadas à educação no município, incluindo:
+Reúne indicadores relacionados ao sistema educacional de Camaçari.
 
-- Escolas;
+Inclui informações sobre:
+
+- Escolas públicas e privadas;
 - Bibliotecas;
-- Instituições de ensino;
 - Centros culturais;
+- Instituições de ensino;
 - Indicadores educacionais.
+
+Esses dados permitem visualizar a estrutura educacional disponível para a população.
 
 ---
 
 # 🌴 Turismo
 
-Reúne informações sobre os principais atrativos turísticos e culturais de Camaçari.
+Apresenta informações sobre os principais atrativos turísticos e culturais do município.
 
 Entre eles:
 
@@ -58,8 +58,20 @@ Entre eles:
 - Espaços de lazer;
 - Pontos turísticos.
 
+Os infográficos facilitam a divulgação do potencial turístico de Camaçari.
+
 ---
 
-# 🎯 Objetivo
+# 🌟 Objetivo
 
-Os infográficos têm como finalidade reunir e apresentar informações relevantes sobre Camaçari de forma organizada, auxiliando estudantes, pesquisadores, gestores públicos e a comunidade em consultas, pesquisas e na divulgação de dados sobre o município.
+A seção de Infográficos busca transformar dados em informações visuais de fácil compreensão, contribuindo para:
+
+- 📚 Apoiar pesquisas e trabalhos acadêmicos;
+- 📊 Facilitar análises estatísticas;
+- 🏛️ Valorizar a história e o desenvolvimento de Camaçari;
+- 🌍 Disponibilizar informações de forma acessível;
+- 🤝 Incentivar o uso de dados públicos pela comunidade.
+<p align="center">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/07512076-b710-4f67-8f8c-be3c6779208c" />
+</p>
+
